@@ -1,0 +1,3 @@
+module Globber
+  VERSION = "0.0.1"
+end
