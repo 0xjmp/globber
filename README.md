@@ -16,9 +16,9 @@ Globber.configure do |c|
   c.base_uri = 'http://api.yoursite.com'
 end
 ```
-##### Now whichever route is passed to rails will be mapped to your API server.
-__E.g.__ http://localhost:3000/1/caliber/popular Becomes http://api.yoursite.com/1/caliber/popular
-And you receive your JSON data server-side.
+Now whichever route is passed to rails will be mapped to your API server.
+
+That's it!
 
 ## Author
 [@jakenberg](https://github.com/jakenberg)
