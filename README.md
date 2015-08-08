@@ -6,7 +6,7 @@ In your `Gemfile`:
 ```ruby
 gem 'globber'
 ```
-## 2 Installation options:
+## Installation options:
 
 ### Automagically
 - Run `rails g globber:install` in the root directory of your project
