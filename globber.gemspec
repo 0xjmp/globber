@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Jake Peterson"]
   s.email       = ["jsksma2@gmail.com"]
   s.homepage    = "https://github.com/jakenberg"
-  s.summary     = "Utilize the ruby on rails environment backed by any api server!"
+  s.summary     = "Utilize the ruby on rails environment backed by any remote API!"
   s.description = ""
   s.license     = "MIT"
 

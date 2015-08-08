@@ -1,6 +1,3 @@
-# Globber
-Utilize the ruby on rails environment backed by any api server!
-
 ## Installation
 In your `Gemfile`:
 ```ruby
