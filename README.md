@@ -11,6 +11,7 @@ gem 'globber'
 ### Automagically
 - Run `rails g globber:install` in the root directory of your project
 - Open `config/initializers/globber.rb` and set your `base_uri`
+
 ![Jake & Fin](http://img2.wikia.nocookie.net/__cb20120315182857/adventuretimewithfinnandjake/images/7/72/S2e13_FinnMagicWand.gif)
 
 ### Manually (not as magical)
