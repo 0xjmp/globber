@@ -7,7 +7,7 @@ In your `Gemfile`:
 gem 'globber'
 ```
 ## 2 Installation options:
------
+
 ### Automagically
 - Run `rails g globber:install` in the root directory of your project
 - Open `config/initializers/globber.rb` and set your `base_uri`
