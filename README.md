@@ -1,6 +1,8 @@
 # Globber
 Utilize the ruby on rails environment backed by any remote API!
 
+[![Gem Version](https://badge.fury.io/rb/globber.svg)](http://badge.fury.io/rb/globber)
+
 ## Installation
 In your `Gemfile`:
 ```ruby
