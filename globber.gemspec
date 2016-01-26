@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Globber::VERSION
   s.authors     = ["Jake Peterson"]
   s.email       = ["jsksma2@gmail.com"]
-  s.homepage    = "https://github.com/jakenberg"
+  s.homepage    = "https://github.com/jakenberg/globber"
   s.summary     = "Utilize the ruby on rails environment backed by any remote API!"
   s.description = ""
   s.license     = "MIT"
